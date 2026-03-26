@@ -1,0 +1,391 @@
+2026-03-26 12:15:29,472 [INFO] CURRY-to-BIDS conversion
+2026-03-26 12:15:29,472 [INFO]   Source: /Users/zhiyuma/Documents/EDUHK/RA_C/DATA
+2026-03-26 12:15:29,473 [INFO]   Output: /Users/zhiyuma/Documents/EDUHK/RA_C/Python
+2026-03-26 12:15:29,474 [INFO] SA076: 10 CDT files found
+2026-03-26 12:15:29,476 [INFO] SA088: 10 CDT files found
+2026-03-26 12:15:29,477 [INFO] SA095: 10 CDT files found
+2026-03-26 12:15:33,100 [INFO] Processing: SA076_cpt-aud.cdt
+2026-03-26 12:15:33,105 [INFO] Reading file SA076_cpt-aud.cdt ...
+2026-03-26 12:15:33,105 [INFO] Number of samples = 664700, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:33,105 [INFO] Found channel labels
+2026-03-26 12:15:33,107 [INFO] Found sensor positions
+2026-03-26 12:15:33,115 [INFO] Found events
+2026-03-26 12:15:33,272 [INFO] Reading file SA076_cpt-aud.cdt ...
+2026-03-26 12:15:33,272 [INFO] Number of samples = 664700, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:33,272 [INFO] Found channel labels
+2026-03-26 12:15:33,272 [INFO] Found sensor positions
+2026-03-26 12:15:33,279 [INFO] Found events
+2026-03-26 12:15:33,436 [INFO]   Events: 975 total, 23 unique codes
+2026-03-26 12:15:37,194 [INFO]   Written -> sub-SA076/eeg/sub-SA076_task-cptaud_eeg.vhdr
+2026-03-26 12:15:37,194 [INFO] Processing: SA076_cpt-vis.cdt
+2026-03-26 12:15:37,196 [INFO] Reading file SA076_cpt-vis.cdt ...
+2026-03-26 12:15:37,197 [INFO] Number of samples = 659600, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:37,197 [INFO] Found channel labels
+2026-03-26 12:15:37,198 [INFO] Found sensor positions
+2026-03-26 12:15:37,210 [INFO] Found events
+2026-03-26 12:15:37,398 [INFO] Reading file SA076_cpt-vis.cdt ...
+2026-03-26 12:15:37,399 [INFO] Number of samples = 659600, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:37,399 [INFO] Found channel labels
+2026-03-26 12:15:37,399 [INFO] Found sensor positions
+2026-03-26 12:15:37,410 [INFO] Found events
+2026-03-26 12:15:37,597 [INFO]   Events: 1171 total, 23 unique codes
+2026-03-26 12:15:41,356 [INFO]   Written -> sub-SA076/eeg/sub-SA076_task-cptvis_eeg.vhdr
+2026-03-26 12:15:41,357 [INFO] Processing: SA076_pvt-aud.cdt
+2026-03-26 12:15:41,360 [INFO] Reading file SA076_pvt-aud.cdt ...
+2026-03-26 12:15:41,361 [INFO] Number of samples = 673800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:41,361 [INFO] Found channel labels
+2026-03-26 12:15:41,362 [INFO] Found sensor positions
+2026-03-26 12:15:41,369 [INFO] Found events
+2026-03-26 12:15:41,688 [INFO] Reading file SA076_pvt-aud.cdt ...
+2026-03-26 12:15:41,688 [INFO] Number of samples = 673800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:41,688 [INFO] Found channel labels
+2026-03-26 12:15:41,689 [INFO] Found sensor positions
+2026-03-26 12:15:41,691 [INFO] Found events
+2026-03-26 12:15:41,886 [INFO]   Events: 207 total, 3 unique codes
+2026-03-26 12:15:46,012 [INFO]   Written -> sub-SA076/eeg/sub-SA076_task-pvtaud_eeg.vhdr
+2026-03-26 12:15:46,012 [INFO] Processing: SA076_pvt-vis.cdt
+2026-03-26 12:15:46,013 [INFO] Reading file SA076_pvt-vis.cdt ...
+2026-03-26 12:15:46,014 [INFO] Number of samples = 795200, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:46,015 [INFO] Found impedance matrix
+2026-03-26 12:15:46,015 [INFO] Found channel labels
+2026-03-26 12:15:46,016 [INFO] Found sensor positions
+2026-03-26 12:15:46,020 [INFO] Found events
+2026-03-26 12:15:46,210 [INFO] Reading file SA076_pvt-vis.cdt ...
+2026-03-26 12:15:46,210 [INFO] Number of samples = 795200, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:46,210 [INFO] Found impedance matrix
+2026-03-26 12:15:46,210 [INFO] Found channel labels
+2026-03-26 12:15:46,211 [INFO] Found sensor positions
+2026-03-26 12:15:46,213 [INFO] Found events
+2026-03-26 12:15:46,359 [INFO]   Events: 207 total, 3 unique codes
+2026-03-26 12:15:49,805 [INFO]   Written -> sub-SA076/eeg/sub-SA076_task-pvtvis_eeg.vhdr
+2026-03-26 12:15:49,806 [INFO] Processing: SA076_rest-ec.cdt
+2026-03-26 12:15:49,807 [INFO] Reading file SA076_rest-ec.cdt ...
+2026-03-26 12:15:49,808 [INFO] Number of samples = 321400, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:49,808 [INFO] Found channel labels
+2026-03-26 12:15:49,808 [INFO] Found sensor positions
+2026-03-26 12:15:49,864 [INFO] Reading file SA076_rest-ec.cdt ...
+2026-03-26 12:15:49,864 [INFO] Number of samples = 321400, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:49,864 [INFO] Found channel labels
+2026-03-26 12:15:49,864 [INFO] Found sensor positions
+2026-03-26 12:15:51,091 [INFO]   Written -> sub-SA076/eeg/sub-SA076_task-restec_eeg.vhdr
+2026-03-26 12:15:51,091 [INFO] Processing: SA076_rest-eo.cdt
+2026-03-26 12:15:51,092 [INFO] Reading file SA076_rest-eo.cdt ...
+2026-03-26 12:15:51,093 [INFO] Number of samples = 321800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:51,093 [INFO] Found channel labels
+2026-03-26 12:15:51,094 [INFO] Found sensor positions
+2026-03-26 12:15:51,153 [INFO] Reading file SA076_rest-eo.cdt ...
+2026-03-26 12:15:51,153 [INFO] Number of samples = 321800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:51,153 [INFO] Found channel labels
+2026-03-26 12:15:51,154 [INFO] Found sensor positions
+2026-03-26 12:15:52,212 [INFO]   Written -> sub-SA076/eeg/sub-SA076_task-resteo_eeg.vhdr
+2026-03-26 12:15:52,212 [INFO] Processing: SA076_sst-aud.cdt
+2026-03-26 12:15:52,213 [INFO] Reading file SA076_sst-aud.cdt ...
+2026-03-26 12:15:52,213 [INFO] Number of samples = 868800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:52,213 [INFO] Found channel labels
+2026-03-26 12:15:52,214 [INFO] Found sensor positions
+2026-03-26 12:15:52,218 [INFO] Found events
+2026-03-26 12:15:52,452 [INFO] Reading file SA076_sst-aud.cdt ...
+2026-03-26 12:15:52,452 [INFO] Number of samples = 868800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:52,452 [INFO] Found channel labels
+2026-03-26 12:15:52,453 [INFO] Found sensor positions
+2026-03-26 12:15:52,456 [INFO] Found events
+2026-03-26 12:15:52,618 [INFO]   Events: 584 total, 11 unique codes
+2026-03-26 12:15:56,320 [INFO]   Written -> sub-SA076/eeg/sub-SA076_task-sstaud_eeg.vhdr
+2026-03-26 12:15:56,320 [INFO] Processing: SA076_sst-vis.cdt
+2026-03-26 12:15:56,321 [INFO] Reading file SA076_sst-vis.cdt ...
+2026-03-26 12:15:56,322 [INFO] Number of samples = 891700, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:56,322 [INFO] Found channel labels
+2026-03-26 12:15:56,322 [INFO] Found sensor positions
+2026-03-26 12:15:56,327 [INFO] Found events
+2026-03-26 12:15:56,539 [INFO] Reading file SA076_sst-vis.cdt ...
+2026-03-26 12:15:56,539 [INFO] Number of samples = 891700, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:15:56,539 [INFO] Found channel labels
+2026-03-26 12:15:56,540 [INFO] Found sensor positions
+2026-03-26 12:15:56,544 [INFO] Found events
+2026-03-26 12:15:56,720 [INFO]   Events: 583 total, 12 unique codes
+2026-03-26 12:16:00,817 [INFO]   Written -> sub-SA076/eeg/sub-SA076_task-sstvis_eeg.vhdr
+2026-03-26 12:16:00,818 [INFO] Processing: SA076_stroop-aud.cdt
+2026-03-26 12:16:00,819 [INFO] Reading file SA076_stroop-aud.cdt ...
+2026-03-26 12:16:00,819 [INFO] Number of samples = 937900, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:00,819 [INFO] Found channel labels
+2026-03-26 12:16:00,819 [INFO] Found sensor positions
+2026-03-26 12:16:00,825 [INFO] Found events
+2026-03-26 12:16:01,077 [INFO] Reading file SA076_stroop-aud.cdt ...
+2026-03-26 12:16:01,078 [INFO] Number of samples = 937900, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:01,078 [INFO] Found channel labels
+2026-03-26 12:16:01,079 [INFO] Found sensor positions
+2026-03-26 12:16:01,085 [INFO] Found events
+2026-03-26 12:16:01,309 [INFO]   Events: 717 total, 8 unique codes
+2026-03-26 12:16:05,783 [INFO]   Written -> sub-SA076/eeg/sub-SA076_task-stroopaud_eeg.vhdr
+2026-03-26 12:16:05,784 [INFO] Processing: SA076_stroop-vis.cdt
+2026-03-26 12:16:05,785 [INFO] Reading file SA076_stroop-vis.cdt ...
+2026-03-26 12:16:05,786 [INFO] Number of samples = 857300, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:05,786 [INFO] Found impedance matrix
+2026-03-26 12:16:05,786 [INFO] Found channel labels
+2026-03-26 12:16:05,787 [INFO] Found sensor positions
+2026-03-26 12:16:05,792 [INFO] Found events
+2026-03-26 12:16:06,016 [INFO] Reading file SA076_stroop-vis.cdt ...
+2026-03-26 12:16:06,017 [INFO] Number of samples = 857300, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:06,017 [INFO] Found impedance matrix
+2026-03-26 12:16:06,017 [INFO] Found channel labels
+2026-03-26 12:16:06,017 [INFO] Found sensor positions
+2026-03-26 12:16:06,022 [INFO] Found events
+2026-03-26 12:16:06,190 [INFO]   Events: 686 total, 8 unique codes
+2026-03-26 12:16:10,723 [INFO]   Written -> sub-SA076/eeg/sub-SA076_task-stroopvis_eeg.vhdr
+2026-03-26 12:16:10,724 [INFO] Processing: SA088_cpt-aud.cdt
+2026-03-26 12:16:10,726 [INFO] Reading file SA088_cpt-aud.cdt ...
+2026-03-26 12:16:10,726 [INFO] Number of samples = 657100, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:10,727 [INFO] Found channel labels
+2026-03-26 12:16:10,727 [INFO] Found sensor positions
+2026-03-26 12:16:10,737 [INFO] Found events
+2026-03-26 12:16:10,999 [INFO] Reading file SA088_cpt-aud.cdt ...
+2026-03-26 12:16:11,000 [INFO] Number of samples = 657100, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:11,000 [INFO] Found channel labels
+2026-03-26 12:16:11,000 [INFO] Found sensor positions
+2026-03-26 12:16:11,009 [INFO] Found events
+2026-03-26 12:16:11,220 [INFO]   Events: 964 total, 23 unique codes
+2026-03-26 12:16:14,587 [INFO]   Written -> sub-SA088/eeg/sub-SA088_task-cptaud_eeg.vhdr
+2026-03-26 12:16:14,587 [INFO] Processing: SA088_cpt-vis.cdt
+2026-03-26 12:16:14,588 [INFO] Reading file SA088_cpt-vis.cdt ...
+2026-03-26 12:16:14,589 [INFO] Number of samples = 673300, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:14,589 [INFO] Found impedance matrix
+2026-03-26 12:16:14,589 [INFO] Found channel labels
+2026-03-26 12:16:14,590 [INFO] Found sensor positions
+2026-03-26 12:16:14,601 [INFO] Found events
+2026-03-26 12:16:14,758 [INFO] Reading file SA088_cpt-vis.cdt ...
+2026-03-26 12:16:14,758 [INFO] Number of samples = 673300, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:14,758 [INFO] Found impedance matrix
+2026-03-26 12:16:14,758 [INFO] Found channel labels
+2026-03-26 12:16:14,759 [INFO] Found sensor positions
+2026-03-26 12:16:14,766 [INFO] Found events
+2026-03-26 12:16:14,924 [INFO]   Events: 1163 total, 23 unique codes
+2026-03-26 12:16:19,274 [INFO]   Written -> sub-SA088/eeg/sub-SA088_task-cptvis_eeg.vhdr
+2026-03-26 12:16:19,275 [INFO] Processing: SA088_pvt-aud.cdt
+2026-03-26 12:16:19,276 [INFO] Reading file SA088_pvt-aud.cdt ...
+2026-03-26 12:16:19,277 [INFO] Number of samples = 668700, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:19,277 [INFO] Found channel labels
+2026-03-26 12:16:19,278 [INFO] Found sensor positions
+2026-03-26 12:16:19,282 [INFO] Found events
+2026-03-26 12:16:19,465 [INFO] Reading file SA088_pvt-aud.cdt ...
+2026-03-26 12:16:19,466 [INFO] Number of samples = 668700, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:19,466 [INFO] Found channel labels
+2026-03-26 12:16:19,467 [INFO] Found sensor positions
+2026-03-26 12:16:19,470 [INFO] Found events
+2026-03-26 12:16:19,613 [INFO]   Events: 207 total, 3 unique codes
+2026-03-26 12:16:22,546 [INFO]   Written -> sub-SA088/eeg/sub-SA088_task-pvtaud_eeg.vhdr
+2026-03-26 12:16:22,547 [INFO] Processing: SA088_pvt-vis.cdt
+2026-03-26 12:16:22,548 [INFO] Reading file SA088_pvt-vis.cdt ...
+2026-03-26 12:16:22,548 [INFO] Number of samples = 687700, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:22,548 [INFO] Found channel labels
+2026-03-26 12:16:22,549 [INFO] Found sensor positions
+2026-03-26 12:16:22,551 [INFO] Found events
+2026-03-26 12:16:22,746 [INFO] Reading file SA088_pvt-vis.cdt ...
+2026-03-26 12:16:22,746 [INFO] Number of samples = 687700, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:22,746 [INFO] Found channel labels
+2026-03-26 12:16:22,747 [INFO] Found sensor positions
+2026-03-26 12:16:22,749 [INFO] Found events
+2026-03-26 12:16:22,897 [INFO]   Events: 207 total, 3 unique codes
+2026-03-26 12:16:26,025 [INFO]   Written -> sub-SA088/eeg/sub-SA088_task-pvtvis_eeg.vhdr
+2026-03-26 12:16:26,025 [INFO] Processing: SA088_rest-ec.cdt
+2026-03-26 12:16:26,026 [INFO] Reading file SA088_rest-ec.cdt ...
+2026-03-26 12:16:26,026 [INFO] Number of samples = 325300, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:26,026 [INFO] Found impedance matrix
+2026-03-26 12:16:26,026 [INFO] Found channel labels
+2026-03-26 12:16:26,027 [INFO] Found sensor positions
+2026-03-26 12:16:26,091 [INFO] Reading file SA088_rest-ec.cdt ...
+2026-03-26 12:16:26,091 [INFO] Number of samples = 325300, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:26,092 [INFO] Found impedance matrix
+2026-03-26 12:16:26,092 [INFO] Found channel labels
+2026-03-26 12:16:26,093 [INFO] Found sensor positions
+2026-03-26 12:16:27,369 [INFO]   Written -> sub-SA088/eeg/sub-SA088_task-restec_eeg.vhdr
+2026-03-26 12:16:27,369 [INFO] Processing: SA088_rest-eo.cdt
+2026-03-26 12:16:27,370 [INFO] Reading file SA088_rest-eo.cdt ...
+2026-03-26 12:16:27,370 [INFO] Number of samples = 409400, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:27,370 [INFO] Found channel labels
+2026-03-26 12:16:27,371 [INFO] Found sensor positions
+2026-03-26 12:16:27,484 [INFO] Reading file SA088_rest-eo.cdt ...
+2026-03-26 12:16:27,484 [INFO] Number of samples = 409400, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:27,484 [INFO] Found channel labels
+2026-03-26 12:16:27,485 [INFO] Found sensor positions
+2026-03-26 12:16:29,457 [INFO]   Written -> sub-SA088/eeg/sub-SA088_task-resteo_eeg.vhdr
+2026-03-26 12:16:29,458 [INFO] Processing: SA088_sst-aud.cdt
+2026-03-26 12:16:29,459 [INFO] Reading file SA088_sst-aud.cdt ...
+2026-03-26 12:16:29,459 [INFO] Number of samples = 997700, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:29,459 [INFO] Found channel labels
+2026-03-26 12:16:29,460 [INFO] Found sensor positions
+2026-03-26 12:16:29,466 [INFO] Found events
+2026-03-26 12:16:29,710 [INFO] Reading file SA088_sst-aud.cdt ...
+2026-03-26 12:16:29,710 [INFO] Number of samples = 997700, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:29,711 [INFO] Found channel labels
+2026-03-26 12:16:29,711 [INFO] Found sensor positions
+2026-03-26 12:16:29,714 [INFO] Found events
+2026-03-26 12:16:29,921 [INFO]   Events: 567 total, 19 unique codes
+2026-03-26 12:16:34,933 [INFO]   Written -> sub-SA088/eeg/sub-SA088_task-sstaud_eeg.vhdr
+2026-03-26 12:16:34,934 [INFO] Processing: SA088_sst-vis.cdt
+2026-03-26 12:16:34,935 [INFO] Reading file SA088_sst-vis.cdt ...
+2026-03-26 12:16:34,935 [INFO] Number of samples = 938600, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:34,935 [INFO] Found channel labels
+2026-03-26 12:16:34,936 [INFO] Found sensor positions
+2026-03-26 12:16:34,942 [INFO] Found events
+2026-03-26 12:16:35,148 [INFO] Reading file SA088_sst-vis.cdt ...
+2026-03-26 12:16:35,148 [INFO] Number of samples = 938600, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:35,148 [INFO] Found channel labels
+2026-03-26 12:16:35,149 [INFO] Found sensor positions
+2026-03-26 12:16:35,152 [INFO] Found events
+2026-03-26 12:16:35,327 [INFO]   Events: 572 total, 14 unique codes
+2026-03-26 12:16:39,622 [INFO]   Written -> sub-SA088/eeg/sub-SA088_task-sstvis_eeg.vhdr
+2026-03-26 12:16:39,622 [INFO] Processing: SA088_stroop-aud.cdt
+2026-03-26 12:16:39,623 [INFO] Reading file SA088_stroop-aud.cdt ...
+2026-03-26 12:16:39,624 [INFO] Number of samples = 974800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:39,624 [INFO] Found impedance matrix
+2026-03-26 12:16:39,624 [INFO] Found channel labels
+2026-03-26 12:16:39,624 [INFO] Found sensor positions
+2026-03-26 12:16:39,629 [INFO] Found events
+2026-03-26 12:16:39,877 [INFO] Reading file SA088_stroop-aud.cdt ...
+2026-03-26 12:16:39,877 [INFO] Number of samples = 974800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:39,878 [INFO] Found impedance matrix
+2026-03-26 12:16:39,878 [INFO] Found channel labels
+2026-03-26 12:16:39,878 [INFO] Found sensor positions
+2026-03-26 12:16:39,882 [INFO] Found events
+2026-03-26 12:16:40,082 [INFO]   Events: 618 total, 8 unique codes
+2026-03-26 12:16:44,179 [INFO]   Written -> sub-SA088/eeg/sub-SA088_task-stroopaud_eeg.vhdr
+2026-03-26 12:16:44,180 [INFO] Processing: SA088_stroop-vis.cdt
+2026-03-26 12:16:44,181 [INFO] Reading file SA088_stroop-vis.cdt ...
+2026-03-26 12:16:44,181 [INFO] Number of samples = 884900, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:44,182 [INFO] Found channel labels
+2026-03-26 12:16:44,182 [INFO] Found sensor positions
+2026-03-26 12:16:44,189 [INFO] Found events
+2026-03-26 12:16:44,403 [INFO] Reading file SA088_stroop-vis.cdt ...
+2026-03-26 12:16:44,403 [INFO] Number of samples = 884900, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:44,403 [INFO] Found channel labels
+2026-03-26 12:16:44,404 [INFO] Found sensor positions
+2026-03-26 12:16:44,408 [INFO] Found events
+2026-03-26 12:16:44,586 [INFO]   Events: 685 total, 8 unique codes
+2026-03-26 12:16:48,740 [INFO]   Written -> sub-SA088/eeg/sub-SA088_task-stroopvis_eeg.vhdr
+2026-03-26 12:16:48,741 [INFO] Processing: SA095_cpt-aud.cdt
+2026-03-26 12:16:48,743 [INFO] Reading file SA095_cpt-aud.cdt ...
+2026-03-26 12:16:48,743 [INFO] Number of samples = 671000, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:48,743 [INFO] Found channel labels
+2026-03-26 12:16:48,744 [INFO] Found sensor positions
+2026-03-26 12:16:48,751 [INFO] Found events
+2026-03-26 12:16:48,920 [INFO] Reading file SA095_cpt-aud.cdt ...
+2026-03-26 12:16:48,920 [INFO] Number of samples = 671000, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:48,920 [INFO] Found channel labels
+2026-03-26 12:16:48,921 [INFO] Found sensor positions
+2026-03-26 12:16:48,926 [INFO] Found events
+2026-03-26 12:16:49,066 [INFO]   Events: 764 total, 23 unique codes
+2026-03-26 12:16:52,253 [INFO]   Written -> sub-SA095/eeg/sub-SA095_task-cptaud_eeg.vhdr
+2026-03-26 12:16:52,253 [INFO] Processing: SA095_cpt-vis.cdt
+2026-03-26 12:16:52,254 [INFO] Reading file SA095_cpt-vis.cdt ...
+2026-03-26 12:16:52,254 [INFO] Number of samples = 721300, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:52,255 [INFO] Found impedance matrix
+2026-03-26 12:16:52,255 [INFO] Found channel labels
+2026-03-26 12:16:52,255 [INFO] Found sensor positions
+2026-03-26 12:16:52,269 [INFO] Found events
+2026-03-26 12:16:52,456 [INFO] Reading file SA095_cpt-vis.cdt ...
+2026-03-26 12:16:52,456 [INFO] Number of samples = 721300, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:52,457 [INFO] Found impedance matrix
+2026-03-26 12:16:52,457 [INFO] Found channel labels
+2026-03-26 12:16:52,457 [INFO] Found sensor positions
+2026-03-26 12:16:52,466 [INFO] Found events
+2026-03-26 12:16:52,630 [INFO]   Events: 1118 total, 23 unique codes
+2026-03-26 12:16:56,071 [INFO]   Written -> sub-SA095/eeg/sub-SA095_task-cptvis_eeg.vhdr
+2026-03-26 12:16:56,072 [INFO] Processing: SA095_pvt-aud.cdt
+2026-03-26 12:16:56,073 [INFO] Reading file SA095_pvt-aud.cdt ...
+2026-03-26 12:16:56,073 [INFO] Number of samples = 673300, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:56,074 [INFO] Found channel labels
+2026-03-26 12:16:56,074 [INFO] Found sensor positions
+2026-03-26 12:16:56,077 [INFO] Found events
+2026-03-26 12:16:56,260 [INFO] Reading file SA095_pvt-aud.cdt ...
+2026-03-26 12:16:56,261 [INFO] Number of samples = 673300, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:56,261 [INFO] Found channel labels
+2026-03-26 12:16:56,261 [INFO] Found sensor positions
+2026-03-26 12:16:56,263 [INFO] Found events
+2026-03-26 12:16:56,388 [INFO]   Events: 207 total, 3 unique codes
+2026-03-26 12:16:59,413 [INFO]   Written -> sub-SA095/eeg/sub-SA095_task-pvtaud_eeg.vhdr
+2026-03-26 12:16:59,414 [INFO] Processing: SA095_pvt-vis.cdt
+2026-03-26 12:16:59,416 [INFO] Reading file SA095_pvt-vis.cdt ...
+2026-03-26 12:16:59,416 [INFO] Number of samples = 691800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:59,417 [INFO] Found channel labels
+2026-03-26 12:16:59,417 [INFO] Found sensor positions
+2026-03-26 12:16:59,420 [INFO] Found events
+2026-03-26 12:16:59,595 [INFO] Reading file SA095_pvt-vis.cdt ...
+2026-03-26 12:16:59,595 [INFO] Number of samples = 691800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:16:59,595 [INFO] Found channel labels
+2026-03-26 12:16:59,595 [INFO] Found sensor positions
+2026-03-26 12:16:59,597 [INFO] Found events
+2026-03-26 12:16:59,726 [INFO]   Events: 207 total, 3 unique codes
+2026-03-26 12:17:03,251 [INFO]   Written -> sub-SA095/eeg/sub-SA095_task-pvtvis_eeg.vhdr
+2026-03-26 12:17:03,252 [INFO] Processing: SA095_rest-ec.cdt
+2026-03-26 12:17:03,254 [INFO] Reading file SA095_rest-ec.cdt ...
+2026-03-26 12:17:03,254 [INFO] Number of samples = 322800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:17:03,254 [INFO] Found channel labels
+2026-03-26 12:17:03,255 [INFO] Found sensor positions
+2026-03-26 12:17:03,326 [INFO] Reading file SA095_rest-ec.cdt ...
+2026-03-26 12:17:03,327 [INFO] Number of samples = 322800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:17:03,327 [INFO] Found channel labels
+2026-03-26 12:17:03,328 [INFO] Found sensor positions
+2026-03-26 12:17:04,790 [INFO]   Written -> sub-SA095/eeg/sub-SA095_task-restec_eeg.vhdr
+2026-03-26 12:17:04,790 [INFO] Processing: SA095_rest-eo.cdt
+2026-03-26 12:17:04,791 [INFO] Reading file SA095_rest-eo.cdt ...
+2026-03-26 12:17:04,791 [INFO] Number of samples = 323100, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:17:04,792 [INFO] Found channel labels
+2026-03-26 12:17:04,792 [INFO] Found sensor positions
+2026-03-26 12:17:04,851 [INFO] Reading file SA095_rest-eo.cdt ...
+2026-03-26 12:17:04,851 [INFO] Number of samples = 323100, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:17:04,851 [INFO] Found channel labels
+2026-03-26 12:17:04,852 [INFO] Found sensor positions
+2026-03-26 12:17:06,257 [INFO]   Written -> sub-SA095/eeg/sub-SA095_task-resteo_eeg.vhdr
+2026-03-26 12:17:06,257 [INFO] Processing: SA095_sst-aud.cdt
+2026-03-26 12:17:06,258 [INFO] Reading file SA095_sst-aud.cdt ...
+2026-03-26 12:17:06,258 [INFO] Number of samples = 1014300, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:17:06,258 [INFO] Found channel labels
+2026-03-26 12:17:06,259 [INFO] Found sensor positions
+2026-03-26 12:17:06,265 [INFO] Found events
+2026-03-26 12:17:06,550 [INFO] Reading file SA095_sst-aud.cdt ...
+2026-03-26 12:17:06,551 [INFO] Number of samples = 1014300, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:17:06,551 [INFO] Found channel labels
+2026-03-26 12:17:06,552 [INFO] Found sensor positions
+2026-03-26 12:17:06,558 [INFO] Found events
+2026-03-26 12:17:06,773 [INFO]   Events: 577 total, 19 unique codes
+2026-03-26 12:17:11,689 [INFO]   Written -> sub-SA095/eeg/sub-SA095_task-sstaud_eeg.vhdr
+2026-03-26 12:17:11,691 [INFO] Processing: SA095_sst-vis.cdt
+2026-03-26 12:17:11,693 [INFO] Reading file SA095_sst-vis.cdt ...
+2026-03-26 12:17:11,693 [INFO] Number of samples = 1016800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:17:11,693 [INFO] Found channel labels
+2026-03-26 12:17:11,694 [INFO] Found sensor positions
+2026-03-26 12:17:11,701 [INFO] Found events
+2026-03-26 12:17:12,011 [INFO] Reading file SA095_sst-vis.cdt ...
+2026-03-26 12:17:12,012 [INFO] Number of samples = 1016800, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:17:12,012 [INFO] Found channel labels
+2026-03-26 12:17:12,012 [INFO] Found sensor positions
+2026-03-26 12:17:12,018 [INFO] Found events
+2026-03-26 12:17:12,251 [INFO]   Events: 582 total, 13 unique codes
+2026-03-26 12:17:16,690 [INFO]   Written -> sub-SA095/eeg/sub-SA095_task-sstvis_eeg.vhdr
+2026-03-26 12:17:16,691 [INFO] Processing: SA095_stroop-aud.cdt
+2026-03-26 12:17:16,694 [INFO] Reading file SA095_stroop-aud.cdt ...
+2026-03-26 12:17:16,694 [INFO] Number of samples = 922900, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:17:16,694 [INFO] Found channel labels
+2026-03-26 12:17:16,695 [INFO] Found sensor positions
+2026-03-26 12:17:16,701 [INFO] Found events
+2026-03-26 12:17:16,926 [INFO] Reading file SA095_stroop-aud.cdt ...
+2026-03-26 12:17:16,926 [INFO] Number of samples = 922900, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:17:16,926 [INFO] Found channel labels
+2026-03-26 12:17:16,927 [INFO] Found sensor positions
+2026-03-26 12:17:16,931 [INFO] Found events
+2026-03-26 12:17:17,107 [INFO]   Events: 660 total, 8 unique codes
+2026-03-26 12:17:21,532 [INFO]   Written -> sub-SA095/eeg/sub-SA095_task-stroopaud_eeg.vhdr
+2026-03-26 12:17:21,533 [INFO] Processing: SA095_stroop-vis.cdt
+2026-03-26 12:17:21,534 [INFO] Reading file SA095_stroop-vis.cdt ...
+2026-03-26 12:17:21,535 [INFO] Number of samples = 870200, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:17:21,535 [INFO] Found channel labels
+2026-03-26 12:17:21,536 [INFO] Found sensor positions
+2026-03-26 12:17:21,543 [INFO] Found events
+2026-03-26 12:17:21,791 [INFO] Reading file SA095_stroop-vis.cdt ...
+2026-03-26 12:17:21,791 [INFO] Number of samples = 870200, number of channels = 69, number of trials/epochs = 1, sampling frequency = 1000.0 Hz
+2026-03-26 12:17:21,791 [INFO] Found channel labels
+2026-03-26 12:17:21,792 [INFO] Found sensor positions
+2026-03-26 12:17:21,797 [INFO] Found events
+2026-03-26 12:17:21,976 [INFO]   Events: 685 total, 8 unique codes
+2026-03-26 12:17:26,142 [INFO]   Written -> sub-SA095/eeg/sub-SA095_task-stroopvis_eeg.vhdr
+2026-03-26 12:17:26,142 [INFO] Done. Success: 30, Failed: 0
